@@ -3,9 +3,12 @@
 ## Version 1
 - make async request with vanilla javascript
 
+## Version 2
+- make async request with jQury
 
 
-# READY STATES
+
+## READY STATES
 
 0 request not initialized
 
