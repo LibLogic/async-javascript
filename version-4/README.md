@@ -11,7 +11,7 @@
 
 ## Version 4
 - make async requests with vanilla javascript using promises
-- also making astyc requests with jQuery using promises
+- also making async requests with jQuery using promises
 
 
 ## READY STATES
