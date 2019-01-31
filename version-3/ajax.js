@@ -4,10 +4,6 @@ window.onload = function(){
 		console.log(error);
 	}
 	
-	function handleSuccess(data){
-		console.log(data);
-	}
-	
 	$.ajax({
 		type: "GET",
 		url: "data/tweets.json",
@@ -20,12 +16,12 @@ window.onload = function(){
 		$.ajax({
 			type: "GET",
 			url: "data/friends.json",
-			success: cbVideos,
+			success: cbFriends,
 			error: handleError
 		});			
 	}
 		
-	function cbVideos(data){
+	function cbFriends(data){
 		console.log(data);
 		$.ajax({
 			type: "GET",
