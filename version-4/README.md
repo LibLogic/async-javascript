@@ -10,7 +10,8 @@
 - make async request with jQuery using callbacks
 
 ## Version 4
-- make async request with jQuery using promises
+- make async requests with vanilla javascript using promises
+- also making astyc requests with jQuery using promises
 
 
 ## READY STATES
