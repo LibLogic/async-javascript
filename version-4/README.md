@@ -4,8 +4,13 @@
 - make async request with vanilla javascript
 
 ## Version 2
-- make async request with jQury
+- make async request with jQuery
 
+## Version 3
+- make async request with jQuery using callbacks
+
+## Version 4
+- make async request with jQuery using promises
 
 
 ## READY STATES
